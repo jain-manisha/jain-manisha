@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jain-manisha
 - 👀 I’m interested in learning front-end and back-end languages.
-- 🌱 I’m currently learning html and css.
+- 🌱 I’m currently learning javascript.
 - 😄 Pronouns:she/her
 - ⚡ Fun fact:I love to travel ,and enjoy seeing unique places around the world.
 
